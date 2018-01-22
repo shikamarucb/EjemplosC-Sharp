@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\bin\Debug\DateTimeEj.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\bin\Debug\DateTimeEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\bin\Debug\DateTimeEj.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\obj\Debug\DateTimeEj.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\obj\Debug\DateTimeEj.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\obj\Debug\DateTimeEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\DateTimeEj\obj\Debug\DateTimeEj.pdb
