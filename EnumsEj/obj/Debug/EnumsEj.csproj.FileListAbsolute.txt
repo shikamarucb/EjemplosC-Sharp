@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\bin\Debug\EnumsEj.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\bin\Debug\EnumsEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\bin\Debug\EnumsEj.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\obj\Debug\EnumsEj.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\obj\Debug\EnumsEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\EnumsEj\obj\Debug\EnumsEj.pdb
