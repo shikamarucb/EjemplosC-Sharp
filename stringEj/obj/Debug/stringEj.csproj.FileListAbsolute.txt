@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\bin\Debug\stringEj.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\bin\Debug\stringEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\bin\Debug\stringEj.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\obj\Debug\stringEj.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\obj\Debug\stringEj.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\obj\Debug\stringEj.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\stringEj\obj\Debug\stringEj.csprojResolveAssemblyReference.cache
