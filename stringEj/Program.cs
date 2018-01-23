@@ -52,7 +52,7 @@ namespace stringEj
             cadena4 = cadena4.Replace("@numero", "2");
             Console.WriteLine("replace: " + cadena4);
 
-            //
+            //isnullorwhitespace: pregunta si la cadena tiene espacios o es nula
             string cadena5 = "  ";
             string cadena6 = null;
             Console.WriteLine("isnullorwhitespace: " + string.IsNullOrWhiteSpace(cadena5));
