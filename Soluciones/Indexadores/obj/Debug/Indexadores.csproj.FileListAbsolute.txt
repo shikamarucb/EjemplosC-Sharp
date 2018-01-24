@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\obj\Debug\Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\bin\Debug\Indexadores.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\bin\Debug\Indexadores.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\bin\Debug\Indexadores.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\obj\Debug\Indexadores.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\obj\Debug\Indexadores.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Indexadores\obj\Debug\Indexadores.csprojResolveAssemblyReference.cache

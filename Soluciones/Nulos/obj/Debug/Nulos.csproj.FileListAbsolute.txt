@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\bin\Debug\Nulos.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\bin\Debug\Nulos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\bin\Debug\Nulos.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\obj\Debug\Nulos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\obj\Debug\Nulos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Nulos\obj\Debug\Nulos.pdb
