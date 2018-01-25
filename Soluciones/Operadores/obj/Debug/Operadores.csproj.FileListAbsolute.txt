@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\bin\Debug\Operadores.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\bin\Debug\Operadores.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\obj\Debug\Operadores.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\obj\Debug\Operadores.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
