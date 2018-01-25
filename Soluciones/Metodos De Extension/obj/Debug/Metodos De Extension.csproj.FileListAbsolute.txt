@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\bin\Debug\Metodos De Extension.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\bin\Debug\Metodos De Extension.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\bin\Debug\Metodos De Extension.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\obj\Debug\Metodos De Extension.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\obj\Debug\Metodos De Extension.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\obj\Debug\Metodos De Extension.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos De Extension\obj\Debug\Metodos De Extension.csprojResolveAssemblyReference.cache
