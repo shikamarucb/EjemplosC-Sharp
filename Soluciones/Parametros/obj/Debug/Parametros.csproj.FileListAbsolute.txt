@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\bin\Debug\Parametros.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\bin\Debug\Parametros.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\bin\Debug\Parametros.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\obj\Debug\Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\obj\Debug\Parametros.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Parametros\obj\Debug\Parametros.pdb

@@ -1,0 +1,12 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales2.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales2.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales2.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ArgumentosOpcionales.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\obj\Debug\ArgumentosOpcionales2.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\obj\Debug\ArgumentosOpcionales2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\obj\Debug\ArgumentosOpcionales2.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\obj\Debug\ArgumentosOpcionales2.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ClassLibrary3.dll
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\ArgumentosOpcionales2\bin\Debug\ClassLibrary3.pdb
