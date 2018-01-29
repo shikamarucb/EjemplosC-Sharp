@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\bin\Debug\Encapsulamiento.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\bin\Debug\Encapsulamiento.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\bin\Debug\Encapsulamiento.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\obj\Debug\Encapsulamiento.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Encapsulamiento\obj\Debug\Encapsulamiento.pdb

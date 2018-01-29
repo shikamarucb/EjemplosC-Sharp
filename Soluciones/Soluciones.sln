@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentosOpcionales", "Arg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos De Extension", "Metodos De Extension\Metodos De Extension.csproj", "{6D0DD174-2446-49DE-89C9-1DE2E4B1C829}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamiento", "Encapsulamiento\Encapsulamiento.csproj", "{7E8631A4-F92E-4C4B-A65E-CCB059D831BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{6D0DD174-2446-49DE-89C9-1DE2E4B1C829}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0DD174-2446-49DE-89C9-1DE2E4B1C829}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0DD174-2446-49DE-89C9-1DE2E4B1C829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8631A4-F92E-4C4B-A65E-CCB059D831BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8631A4-F92E-4C4B-A65E-CCB059D831BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8631A4-F92E-4C4B-A65E-CCB059D831BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8631A4-F92E-4C4B-A65E-CCB059D831BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
