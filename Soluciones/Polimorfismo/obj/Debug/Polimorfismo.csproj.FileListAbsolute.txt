@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Polimorfismo\obj\Debug\Polimorfismo.pdb
