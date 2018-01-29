@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\bin\Debug\Herencia.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\obj\Debug\Herencia.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Herencia\obj\Debug\Herencia.pdb
