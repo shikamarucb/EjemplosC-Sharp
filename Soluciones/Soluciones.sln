@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyeccion de Dependencia", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoria de Clases", "Factoria de Clases\Factoria de Clases.csproj", "{923511B3-E62A-415C-B47F-C15FD3ADE0CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos Anonimos y Dynamic", "Tipos Anonimos y Dynamic\Tipos Anonimos y Dynamic.csproj", "{7B22D1CB-84D3-4FC4-BCDA-AA97502E5A54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B22D1CB-84D3-4FC4-BCDA-AA97502E5A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B22D1CB-84D3-4FC4-BCDA-AA97502E5A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B22D1CB-84D3-4FC4-BCDA-AA97502E5A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B22D1CB-84D3-4FC4-BCDA-AA97502E5A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

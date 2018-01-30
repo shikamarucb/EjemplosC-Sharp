@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\bin\Debug\Tipos Anonimos y Dynamic.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\bin\Debug\Tipos Anonimos y Dynamic.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\bin\Debug\Tipos Anonimos y Dynamic.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\obj\Debug\Tipos Anonimos y Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\obj\Debug\Tipos Anonimos y Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\obj\Debug\Tipos Anonimos y Dynamic.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Tipos Anonimos y Dynamic\obj\Debug\Tipos Anonimos y Dynamic.pdb
