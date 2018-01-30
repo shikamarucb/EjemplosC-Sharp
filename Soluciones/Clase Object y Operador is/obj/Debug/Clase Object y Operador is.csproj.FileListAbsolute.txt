@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\bin\Debug\Clase Object y Operador is.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\bin\Debug\Clase Object y Operador is.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\bin\Debug\Clase Object y Operador is.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\obj\Debug\Clase Object y Operador is.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\obj\Debug\Clase Object y Operador is.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\obj\Debug\Clase Object y Operador is.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase Object y Operador is\obj\Debug\Clase Object y Operador is.pdb
