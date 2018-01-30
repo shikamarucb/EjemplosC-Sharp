@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase Object y Operador is"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyeccion de Dependencia", "Inyeccion de Dependencia\Inyeccion de Dependencia.csproj", "{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoria de Clases", "Factoria de Clases\Factoria de Clases.csproj", "{923511B3-E62A-415C-B47F-C15FD3ADE0CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923511B3-E62A-415C-B47F-C15FD3ADE0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

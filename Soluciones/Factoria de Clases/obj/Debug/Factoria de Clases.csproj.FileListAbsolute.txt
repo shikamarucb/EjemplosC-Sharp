@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\bin\Debug\Factoria de Clases.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\bin\Debug\Factoria de Clases.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\bin\Debug\Factoria de Clases.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\obj\Debug\Factoria de Clases.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\obj\Debug\Factoria de Clases.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Factoria de Clases\obj\Debug\Factoria de Clases.pdb

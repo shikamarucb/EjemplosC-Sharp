@@ -14,7 +14,7 @@ namespace Inyeccion_de_Dependencia
             //Perro puede cambiarse por cualquier clase que implemente la interfaz animal
             var animal = new Perro();
             var ruido = new Ruido(animal);
-            ruido.HaciendoRuido("Alberto");
+            ruido.HaciendoRuido("Bengie");
 
             Console.WriteLine("\nFin del Programa");
             Console.Read();
