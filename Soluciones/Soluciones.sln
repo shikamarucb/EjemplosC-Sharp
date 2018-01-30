@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase Object y Operador is", "Clase Object y Operador is\Clase Object y Operador is.csproj", "{89F1C1A7-35B3-4D91-9AD9-B59EA6DDBDFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyeccion de Dependencia", "Inyeccion de Dependencia\Inyeccion de Dependencia.csproj", "{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{89F1C1A7-35B3-4D91-9AD9-B59EA6DDBDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F1C1A7-35B3-4D91-9AD9-B59EA6DDBDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F1C1A7-35B3-4D91-9AD9-B59EA6DDBDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A131B0-EAFD-4EDD-8F3F-394F426410DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
