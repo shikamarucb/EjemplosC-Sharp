@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\bin\Debug\Clase abstracta.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\bin\Debug\Clase abstracta.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\bin\Debug\Clase abstracta.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\obj\Debug\Clase abstracta.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\obj\Debug\Clase abstracta.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\obj\Debug\Clase abstracta.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clase abstracta\obj\Debug\Clase abstracta.pdb
