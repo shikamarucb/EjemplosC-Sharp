@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\obj\Debug\Metodos Genericos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\obj\Debug\Metodos Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\bin\Debug\Metodos Genericos.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\bin\Debug\Metodos Genericos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\bin\Debug\Metodos Genericos.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\obj\Debug\Metodos Genericos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Metodos Genericos\obj\Debug\Metodos Genericos.pdb
