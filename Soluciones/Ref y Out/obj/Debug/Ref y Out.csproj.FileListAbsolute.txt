@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\bin\Debug\Ref y Out.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\bin\Debug\Ref y Out.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\bin\Debug\Ref y Out.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\obj\Debug\Ref y Out.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\obj\Debug\Ref y Out.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\obj\Debug\Ref y Out.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ref y Out\obj\Debug\Ref y Out.pdb
