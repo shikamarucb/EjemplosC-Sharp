@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\bin\Debug\Clases Genericas.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\bin\Debug\Clases Genericas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\bin\Debug\Clases Genericas.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\obj\Debug\Clases Genericas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\obj\Debug\Clases Genericas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\obj\Debug\Clases Genericas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Clases Genericas\obj\Debug\Clases Genericas.pdb

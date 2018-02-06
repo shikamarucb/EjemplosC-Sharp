@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref y Out", "Ref y Out\Ref 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase Sellada", "Clase Sellada\Clase Sellada.csproj", "{83F48BAB-4DD7-408B-BD16-2483DEFC656D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases Genericas", "Clases Genericas\Clases Genericas.csproj", "{7C434E76-AC06-442E-A74D-D820550A9FE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{83F48BAB-4DD7-408B-BD16-2483DEFC656D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F48BAB-4DD7-408B-BD16-2483DEFC656D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F48BAB-4DD7-408B-BD16-2483DEFC656D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C434E76-AC06-442E-A74D-D820550A9FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C434E76-AC06-442E-A74D-D820550A9FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C434E76-AC06-442E-A74D-D820550A9FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C434E76-AC06-442E-A74D-D820550A9FE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
