@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\bin\Debug\Interfaces Genericas.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\bin\Debug\Interfaces Genericas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\bin\Debug\Interfaces Genericas.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\obj\Debug\Interfaces Genericas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\obj\Debug\Interfaces Genericas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Interfaces Genericas\obj\Debug\Interfaces Genericas.pdb
