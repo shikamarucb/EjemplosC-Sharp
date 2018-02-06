@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\obj\Debug\Restricciones en Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\bin\Debug\Restricciones en Genericos.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\bin\Debug\Restricciones en Genericos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\bin\Debug\Restricciones en Genericos.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\obj\Debug\Restricciones en Genericos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\obj\Debug\Restricciones en Genericos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Restricciones en Genericos\obj\Debug\Restricciones en Genericos.pdb
