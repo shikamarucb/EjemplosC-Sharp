@@ -56,6 +56,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces Genericas", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restricciones en Genericos", "Restricciones en Genericos\Restricciones en Genericos.csproj", "{77D1DE08-DD68-45C6-A8B3-356856AF1E62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{5D0064BF-EE3B-4169-9E86-625CBE9F4944}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +160,10 @@ Global
 		{77D1DE08-DD68-45C6-A8B3-356856AF1E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77D1DE08-DD68-45C6-A8B3-356856AF1E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77D1DE08-DD68-45C6-A8B3-356856AF1E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

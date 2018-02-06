@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\bin\Debug\Listas.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\bin\Debug\Listas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\bin\Debug\Listas.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\obj\Debug\Listas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Listas\obj\Debug\Listas.pdb
