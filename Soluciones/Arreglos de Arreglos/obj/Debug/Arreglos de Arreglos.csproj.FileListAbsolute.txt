@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\bin\Debug\Arreglos de Arreglos.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\bin\Debug\Arreglos de Arreglos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\bin\Debug\Arreglos de Arreglos.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\obj\Debug\Arreglos de Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\obj\Debug\Arreglos de Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\obj\Debug\Arreglos de Arreglos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos de Arreglos\obj\Debug\Arreglos de Arreglos.pdb

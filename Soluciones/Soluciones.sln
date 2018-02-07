@@ -70,6 +70,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arregl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos Bidimensionales", "Arreglos Bidimensionales\Arreglos Bidimensionales.csproj", "{6E463644-CB1C-4EE3-AD54-6A43C0503481}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos de Arreglos", "Arreglos de Arreglos\Arreglos de Arreglos.csproj", "{C3EBAB0E-B697-4F8C-986E-8780973B220C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,6 +202,10 @@ Global
 		{6E463644-CB1C-4EE3-AD54-6A43C0503481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E463644-CB1C-4EE3-AD54-6A43C0503481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E463644-CB1C-4EE3-AD54-6A43C0503481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
