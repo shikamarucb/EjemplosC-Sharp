@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\bin\Debug\Colas.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\bin\Debug\Colas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\bin\Debug\Colas.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\obj\Debug\Colas.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Colas\obj\Debug\Colas.pdb
