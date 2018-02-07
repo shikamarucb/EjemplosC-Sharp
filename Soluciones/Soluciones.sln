@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas", "Pilas\Pilas.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conjuntos", "Conjuntos\Conjuntos.csproj", "{B92F2A02-33A3-402F-ABB9-23784CA5E3FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{D11EA26A-7EB6-4DB2-BD70-502FBCFA9F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -188,6 +190,10 @@ Global
 		{B92F2A02-33A3-402F-ABB9-23784CA5E3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B92F2A02-33A3-402F-ABB9-23784CA5E3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B92F2A02-33A3-402F-ABB9-23784CA5E3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11EA26A-7EB6-4DB2-BD70-502FBCFA9F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11EA26A-7EB6-4DB2-BD70-502FBCFA9F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11EA26A-7EB6-4DB2-BD70-502FBCFA9F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11EA26A-7EB6-4DB2-BD70-502FBCFA9F36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
