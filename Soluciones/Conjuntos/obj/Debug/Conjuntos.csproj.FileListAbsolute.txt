@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\obj\Debug\Conjuntos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\obj\Debug\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\obj\Debug\Conjuntos.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Conjuntos\obj\Debug\Conjuntos.pdb
