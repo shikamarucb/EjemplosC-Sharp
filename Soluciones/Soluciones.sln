@@ -58,6 +58,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restricciones en Genericos"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{5D0064BF-EE3B-4169-9E86-625CBE9F4944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios", "Diccionarios\Diccionarios.csproj", "{FF21B041-821B-4DEC-9F67-27E583DC9952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colas", "Colas\Colas.csproj", "{32FCD68C-1A61-4165-8FEA-011145F5B7E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -164,6 +168,14 @@ Global
 		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0064BF-EE3B-4169-9E86-625CBE9F4944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF21B041-821B-4DEC-9F67-27E583DC9952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF21B041-821B-4DEC-9F67-27E583DC9952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF21B041-821B-4DEC-9F67-27E583DC9952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF21B041-821B-4DEC-9F67-27E583DC9952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FCD68C-1A61-4165-8FEA-011145F5B7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FCD68C-1A61-4165-8FEA-011145F5B7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FCD68C-1A61-4165-8FEA-011145F5B7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FCD68C-1A61-4165-8FEA-011145F5B7E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

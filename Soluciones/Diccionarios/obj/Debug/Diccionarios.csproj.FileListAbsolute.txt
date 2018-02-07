@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\bin\Debug\Diccionarios.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\bin\Debug\Diccionarios.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\bin\Debug\Diccionarios.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\obj\Debug\Diccionarios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\obj\Debug\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\obj\Debug\Diccionarios.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Diccionarios\obj\Debug\Diccionarios.pdb
