@@ -19,6 +19,7 @@ namespace Arreglos
 
             //usar los breakpoint para observar lo que esta pasando
 
+            //Rendimensionar el arreglo
             Array.Resize<int>(ref n, 12);
             Array.Resize<int>(ref n, 4);
         }

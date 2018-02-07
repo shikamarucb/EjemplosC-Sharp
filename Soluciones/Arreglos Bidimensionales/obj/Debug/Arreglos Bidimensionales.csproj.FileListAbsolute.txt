@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.pdb
