@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\bin\Debug\Entendiendo Delegados.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\bin\Debug\Entendiendo Delegados.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\bin\Debug\Entendiendo Delegados.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\obj\Debug\Entendiendo Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\obj\Debug\Entendiendo Delegados.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Entendiendo Delegados\obj\Debug\Entendiendo Delegados.pdb
