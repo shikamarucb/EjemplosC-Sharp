@@ -1,0 +1,6 @@
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\bin\Debug\Func y Action.exe.config
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\bin\Debug\Func y Action.exe
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\bin\Debug\Func y Action.pdb
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\obj\Debug\Func y Action.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\obj\Debug\Func y Action.exe
+C:\Users\Felipe\source\repos\EjemplosC-Sharp\Soluciones\Func y Action\obj\Debug\Func y Action.pdb
