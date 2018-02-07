@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos Bidimensionales", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos de Arreglos", "Arreglos de Arreglos\Arreglos de Arreglos.csproj", "{C3EBAB0E-B697-4F8C-986E-8780973B220C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "..\..\ConsoleApp1\ConsoleApp1\Delegados.csproj", "{D2CF2B47-804D-416A-953D-9D44CF630232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -206,6 +208,10 @@ Global
 		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3EBAB0E-B697-4F8C-986E-8780973B220C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CF2B47-804D-416A-953D-9D44CF630232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CF2B47-804D-416A-953D-9D44CF630232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CF2B47-804D-416A-953D-9D44CF630232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CF2B47-804D-416A-953D-9D44CF630232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
