@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\obj\Debug\Predicado.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\obj\Debug\Predicado.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\bin\Debug\Predicado.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\bin\Debug\Predicado.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\bin\Debug\Predicado.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\obj\Debug\Predicado.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Predicado\obj\Debug\Predicado.pdb

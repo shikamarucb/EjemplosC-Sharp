@@ -78,6 +78,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendiendo Delegados", "En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func y Action", "Func y Action\Func y Action.csproj", "{ECAB0350-3847-441A-89F8-58B78C3E6E99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicado", "Predicado\Predicado.csproj", "{5B50AA4B-D98A-4609-86B6-8FF220B6987B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +226,10 @@ Global
 		{ECAB0350-3847-441A-89F8-58B78C3E6E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECAB0350-3847-441A-89F8-58B78C3E6E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECAB0350-3847-441A-89F8-58B78C3E6E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B50AA4B-D98A-4609-86B6-8FF220B6987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B50AA4B-D98A-4609-86B6-8FF220B6987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B50AA4B-D98A-4609-86B6-8FF220B6987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B50AA4B-D98A-4609-86B6-8FF220B6987B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
