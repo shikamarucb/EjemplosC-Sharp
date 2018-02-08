@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\bin\Debug\Expresiones Lambda.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\bin\Debug\Expresiones Lambda.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\bin\Debug\Expresiones Lambda.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\obj\Debug\Expresiones Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\obj\Debug\Expresiones Lambda.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Expresiones Lambda\obj\Debug\Expresiones Lambda.pdb
