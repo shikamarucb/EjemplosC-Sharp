@@ -82,6 +82,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicado", "Predicado\Pred
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expresiones Lambda", "Expresiones Lambda\Expresiones Lambda.csproj", "{F9EE22B5-181E-4241-A7BA-063AB97B14D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a LINQ", "Introduccion a LINQ\Introduccion a LINQ.csproj", "{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -236,6 +238,10 @@ Global
 		{F9EE22B5-181E-4241-A7BA-063AB97B14D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9EE22B5-181E-4241-A7BA-063AB97B14D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9EE22B5-181E-4241-A7BA-063AB97B14D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

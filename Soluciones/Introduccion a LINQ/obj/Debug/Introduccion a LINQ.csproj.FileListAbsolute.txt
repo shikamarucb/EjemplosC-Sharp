@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\bin\Debug\Introduccion a LINQ.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\bin\Debug\Introduccion a LINQ.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\bin\Debug\Introduccion a LINQ.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\obj\Debug\Introduccion a LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\obj\Debug\Introduccion a LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\obj\Debug\Introduccion a LINQ.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Introduccion a LINQ\obj\Debug\Introduccion a LINQ.pdb
