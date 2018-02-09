@@ -131,7 +131,15 @@ namespace Introduccion_a_LINQ
             var salarioMayor = personas.Max(x => x.salario);
             var salarioPromedio = personas.Average(x => x.salario);
 
-            
+            //Aggregate 
+            var lista = new List<int> { 2, 3, 4, 5 };
+            /*
+             * Asi funciona:
+             * 2*3=6 
+             * 6*4=24
+             * 24*5=120
+             */
+            var linqAggregate = lista.Aggregate((anterior, actual) => anterior * actual);
 
 
             Console.WriteLine("\nFin del Programa");
