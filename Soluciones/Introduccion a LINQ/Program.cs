@@ -23,16 +23,25 @@ namespace Introduccion_a_LINQ
                 new Persona(){Edad=114},
             };
 
+            //where simple
             var nPositivos = numbers.Where(x => x > 0).ToList();
 
+            //Multiples condiciones
             var nPositivosPares = numbers.Where(x => x > 0 && x % 2 == 0).ToList();
 
+            //where con objeto
             var eMayores = personas.Where(x => x.Edad > 13);
 
-            foreach (var i in eMayores)
+            //where con indice
+            var indicePar = numbers.Where((x, indice) => indice % 2 == 0).ToList();
+
+            Console.WriteLine("Numeros  de indice par");
+
+            foreach (var i in indicePar)
             {
-                Console.WriteLine(i.Edad);
+                Console.WriteLine(i);
             }
+
             Console.WriteLine("\nFin del Programa");
             Console.Read();
         }
