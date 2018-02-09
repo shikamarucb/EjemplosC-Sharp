@@ -85,9 +85,16 @@ namespace Introduccion_a_LINQ
             //Take y skip
             //se salta 3 numeros de la lista de numeros y toma los 4 siguientes
             var newList = numbers.Skip(3).Take(4).ToList();
+
+            //TakeWhile y SkipWhile
+
+            //Toma los elementos mientras se cumple la condicion, cuando se deja de cumplir, no toma mas elementos
+            var newList2 = numbers.TakeWhile(x => x >= -5).ToList();
+            //Escapa los elementos mientras se cumple la condicion, cuando se deja de cumplir, empieza a añadirlos
+            var newList3 = numbers.SkipWhile(x => x > 0).ToList();
             
 
-            foreach (var i in newList)
+            foreach (var i in newList3)
             {
                 Console.WriteLine(i);
             }
