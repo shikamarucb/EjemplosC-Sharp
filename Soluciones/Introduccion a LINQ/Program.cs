@@ -113,6 +113,7 @@ namespace Introduccion_a_LINQ
 
             #endregion GroupBy
 
+            #region All y Any
             //All y Any
 
             //Devuelve un valor booleano(true) si TODOS los elementos de la lista son pares
@@ -120,7 +121,10 @@ namespace Introduccion_a_LINQ
 
             //Devuelve un valor booleano(true) si ALGUNO de los elementos de la lista es par
             var bool2 = numbers.Any(x => x % 2 == 0);
+            #endregion All y Any
 
+            //Sum //Suma de los salarios de las personas
+            var valor1 = personas.Sum(x => x.salario);
 
             Console.WriteLine("\nFin del Programa");
             Console.Read();
