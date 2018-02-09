@@ -17,7 +17,7 @@ namespace Introduccion_a_LINQ
 
             var personas = new List<Persona>()
             {
-                new Persona(){Edad=12, Nombre="Andres",salario=123},
+                new Persona(){Edad=10, Nombre="Andres",salario=123},
                 new Persona(){Edad=16,Nombre="Felipe",salario=66},
                 new Persona(){Edad=11,Nombre="Camacho",salario=876},
                 new Persona(){Edad=114,Nombre="Berragan",salario=99},
@@ -92,13 +92,48 @@ namespace Introduccion_a_LINQ
             var newList2 = numbers.TakeWhile(x => x >= -5).ToList();
             //Escapa los elementos mientras se cumple la condicion, cuando se deja de cumplir, empieza a añadirlos
             var newList3 = numbers.SkipWhile(x => x > 0).ToList();
-            
 
-            foreach (var i in newList3)
+            #region GroupBy
+
+            //Agrupa la lista de enteros en dos: los numeros pares cuyo residuo es 0 y los impares cuyo residuo es 1
+            var newList4 = numbers.GroupBy(x => Math.Abs(x % 2));
+
+            foreach (var i in newList4)
             {
-                Console.WriteLine(i);
+                foreach (var j in i)
+                {
+                    Console.WriteLine(j);
+                }
+                Console.WriteLine();
             }
-            
+
+            //Agrupa la lista de personas segun la cadena de retorno
+            var newList5 = personas.GroupBy(x =>
+            {
+                if (x.Edad <= 10)
+                    return "Menores de 11";
+                else if (x.Edad > 10 && x.Edad <= 20)
+                    return "Mayores de 10 y menores de 21";
+                else
+                    return "Mayores de 20";
+
+            }).ToList();
+
+            foreach (var i in newList5)
+            {
+                Console.WriteLine(i.Key);
+
+                foreach (var j in i)
+                {
+                    Console.WriteLine(j.Nombre);
+                }
+            }
+
+
+
+            #endregion GroupBy
+
+
 
             Console.WriteLine("\nFin del Programa");
             Console.Read();
