@@ -71,6 +71,7 @@ namespace Introduccion_a_LINQ
 
             #endregion First FirstOrDefault
 
+            //uso de select con proyeccion
             #region select y proyeccion
 
             //x => new{Edad = x.Edad, Nombre = x.Nombre} esta expresion es una proyeccion de un objeto tipo Persona
@@ -81,9 +82,14 @@ namespace Introduccion_a_LINQ
 
             #endregion select y proyeccion
 
-            foreach (var i in selectPersona)
+            //Take y skip
+            //se salta 3 numeros de la lista de numeros y toma los 4 siguientes
+            var newList = numbers.Skip(3).Take(4).ToList();
+            
+
+            foreach (var i in newList)
             {
-                Console.WriteLine(i.Nombre+" "+i.Edad);
+                Console.WriteLine(i);
             }
             
 
