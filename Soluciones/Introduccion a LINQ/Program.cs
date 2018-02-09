@@ -12,7 +12,7 @@ namespace Introduccion_a_LINQ
         {
             List<int> numbers = new List<int>()
             {
-                2,3,4,6,-5,8,9,-11,-15,-11,-1
+                3,3,28,6,-5,8,9,-11,-15,-11,-1
             };
 
             var personas = new List<Persona>()
@@ -59,10 +59,21 @@ namespace Introduccion_a_LINQ
             reverseNumbers2.Reverse(1,7);
             #endregion Reverse
 
-            foreach (var i in reverseNumbers2)
-            {
-                Console.WriteLine(i);
-            }
+            //Primer elemento de una lista o elemento por defecto
+            #region First FirstOrDefault
+
+            //First hace lo mismo que FirstOrDefault, la diferencia es que si se ejecuta el metodo First
+            //en una lista vacia va a lanzar una excepcion y si se hace con FirstOrDefault va a devolver el valor
+            //por defecto
+
+            var primero = numbers.First();
+            var primeroLambda = numbers.FirstOrDefault(x => x % 2 == 0);
+
+            #endregion First FirstOrDefault
+
+            
+            Console.WriteLine("FirstOrDefault: "+ primeroLambda);
+            
 
             Console.WriteLine("\nFin del Programa");
             Console.Read();
