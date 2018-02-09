@@ -17,11 +17,11 @@ namespace Introduccion_a_LINQ
 
             var personas = new List<Persona>()
             {
-                new Persona(){Edad=12, Nombre="Andres"},
-                new Persona(){Edad=16,Nombre="Felipe"},
-                new Persona(){Edad=11,Nombre="Camacho"},
-                new Persona(){Edad=114,Nombre="Berragan"},
-                new Persona(){Edad=114,Nombre="Barragan"},
+                new Persona(){Edad=12, Nombre="Andres",salario=123},
+                new Persona(){Edad=16,Nombre="Felipe",salario=66},
+                new Persona(){Edad=11,Nombre="Camacho",salario=876},
+                new Persona(){Edad=114,Nombre="Berragan",salario=99},
+                new Persona(){Edad=114,Nombre="Barragan",salario=68},
             };
 
             //where simple
@@ -71,8 +71,20 @@ namespace Introduccion_a_LINQ
 
             #endregion First FirstOrDefault
 
-            
-            Console.WriteLine("FirstOrDefault: "+ primeroLambda);
+            #region select y proyeccion
+
+            //x => new{Edad = x.Edad, Nombre = x.Nombre} esta expresion es una proyeccion de un objeto tipo Persona
+            //en un objeto Anonimo
+
+            var selectPersona = personas.Where(x => x.Edad == 114).OrderBy(x => x.Edad).ThenBy(x => x.Nombre).
+                Select(x => new { Edad = x.Edad, Nombre = x.Nombre }).ToList();
+
+            #endregion select y proyeccion
+
+            foreach (var i in selectPersona)
+            {
+                Console.WriteLine(i.Nombre+" "+i.Edad);
+            }
             
 
             Console.WriteLine("\nFin del Programa");
@@ -83,6 +95,7 @@ namespace Introduccion_a_LINQ
         {
             public int Edad { get; set; }
             public string Nombre { get; set; }
+            public decimal salario { get; set; }
         }
     }
 }
