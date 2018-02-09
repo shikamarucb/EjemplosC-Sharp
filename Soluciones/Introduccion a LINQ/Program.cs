@@ -17,10 +17,11 @@ namespace Introduccion_a_LINQ
 
             var personas = new List<Persona>()
             {
-                new Persona(){Edad=12},
-                new Persona(){Edad=16},
-                new Persona(){Edad=11},
-                new Persona(){Edad=114},
+                new Persona(){Edad=12, Nombre="Andres"},
+                new Persona(){Edad=16,Nombre="Felipe"},
+                new Persona(){Edad=11,Nombre="Camacho"},
+                new Persona(){Edad=114,Nombre="Berragan"},
+                new Persona(){Edad=114,Nombre="Barragan"},
             };
 
             //where simple
@@ -35,11 +36,24 @@ namespace Introduccion_a_LINQ
             //where con indice
             var indicePar = numbers.Where((x, indice) => indice % 2 == 0).ToList();
 
-            Console.WriteLine("Numeros  de indice par");
+            //OrderBy OrderByDescending y ThenBy
 
-            foreach (var i in indicePar)
+            #region OrderBy ThenBy
+            //Ordena en orden ascendente y alfabeticamente
+            var alfabetico = personas.OrderBy(x => x.Nombre).ToList();
+
+            //Ordena en orden descendiente y alfabeticamente
+            var alfabeticoD = personas.OrderBy(x => x.Nombre).ToList();
+
+            //Ordena en orden primeramente numerico y despues alfabetico
+            var alfaNumerico = personas.OrderBy(x => x.Edad).ThenBy(x => x.Nombre).ToList();
+            #endregion OrderBy ThenBy
+
+            Console.WriteLine("Numeros de indice par");
+
+            foreach (var i in alfaNumerico)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i.Edad + " " + i.Nombre);
             }
 
             Console.WriteLine("\nFin del Programa");
@@ -49,6 +63,7 @@ namespace Introduccion_a_LINQ
         class Persona
         {
             public int Edad { get; set; }
+            public string Nombre { get; set; }
         }
     }
 }
