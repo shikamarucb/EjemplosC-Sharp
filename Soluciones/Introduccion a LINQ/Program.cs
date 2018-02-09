@@ -126,6 +126,14 @@ namespace Introduccion_a_LINQ
             //Sum //Suma de los salarios de las personas
             var valor1 = personas.Sum(x => x.salario);
 
+            //Max Min Average
+            var salarioMenor = personas.Min(x => x.salario);
+            var salarioMayor = personas.Max(x => x.salario);
+            var salarioPromedio = personas.Average(x => x.salario);
+
+            
+
+
             Console.WriteLine("\nFin del Programa");
             Console.Read();
         }
