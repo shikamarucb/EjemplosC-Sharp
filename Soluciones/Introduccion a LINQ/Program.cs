@@ -98,14 +98,6 @@ namespace Introduccion_a_LINQ
             //Agrupa la lista de enteros en dos: los numeros pares cuyo residuo es 0 y los impares cuyo residuo es 1
             var newList4 = numbers.GroupBy(x => Math.Abs(x % 2));
 
-            foreach (var i in newList4)
-            {
-                foreach (var j in i)
-                {
-                    Console.WriteLine(j);
-                }
-                Console.WriteLine();
-            }
 
             //Agrupa la lista de personas segun la cadena de retorno
             var newList5 = personas.GroupBy(x =>
@@ -119,20 +111,15 @@ namespace Introduccion_a_LINQ
 
             }).ToList();
 
-            foreach (var i in newList5)
-            {
-                Console.WriteLine(i.Key);
-
-                foreach (var j in i)
-                {
-                    Console.WriteLine(j.Nombre);
-                }
-            }
-
-
-
             #endregion GroupBy
 
+            //All y Any
+
+            //Devuelve un valor booleano(true) si TODOS los elementos de la lista son pares
+            var bool1 = numbers.All(x => x % 2 == 0);
+
+            //Devuelve un valor booleano(true) si ALGUNO de los elementos de la lista es par
+            var bool2 = numbers.Any(x => x % 2 == 0);
 
 
             Console.WriteLine("\nFin del Programa");
