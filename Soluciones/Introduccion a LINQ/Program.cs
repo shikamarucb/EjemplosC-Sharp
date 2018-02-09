@@ -37,7 +37,6 @@ namespace Introduccion_a_LINQ
             var indicePar = numbers.Where((x, indice) => indice % 2 == 0).ToList();
 
             //OrderBy OrderByDescending y ThenBy
-
             #region OrderBy ThenBy
             //Ordena en orden ascendente y alfabeticamente
             var alfabetico = personas.OrderBy(x => x.Nombre).ToList();
@@ -49,11 +48,20 @@ namespace Introduccion_a_LINQ
             var alfaNumerico = personas.OrderBy(x => x.Edad).ThenBy(x => x.Nombre).ToList();
             #endregion OrderBy ThenBy
 
-            Console.WriteLine("Numeros de indice par");
+            //Reversar una lista
+            #region Reverse
+            var reverseNumbers = new List<int>(numbers);
+            var reverseNumbers2 = new List<int>(numbers);
 
-            foreach (var i in alfaNumerico)
+            reverseNumbers.Reverse();
+
+            //Reversar lista con indice de comienzo y numero de elementos a partir del indice
+            reverseNumbers2.Reverse(1,7);
+            #endregion Reverse
+
+            foreach (var i in reverseNumbers2)
             {
-                Console.WriteLine(i.Edad + " " + i.Nombre);
+                Console.WriteLine(i);
             }
 
             Console.WriteLine("\nFin del Programa");
