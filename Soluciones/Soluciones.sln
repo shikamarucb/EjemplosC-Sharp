@@ -86,6 +86,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a LINQ", "Intr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leyendo App Config", "Leyendo App Config\Leyendo App Config.csproj", "{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection Strings", "Connection Strings\Connection Strings.csproj", "{CB4228F1-480E-4103-AB7B-F80F82D55605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -248,6 +250,10 @@ Global
 		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4228F1-480E-4103-AB7B-F80F82D55605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4228F1-480E-4103-AB7B-F80F82D55605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4228F1-480E-4103-AB7B-F80F82D55605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4228F1-480E-4103-AB7B-F80F82D55605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

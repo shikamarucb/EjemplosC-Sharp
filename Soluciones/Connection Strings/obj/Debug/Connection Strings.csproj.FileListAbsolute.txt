@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\bin\Debug\Connection Strings.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\bin\Debug\Connection Strings.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\bin\Debug\Connection Strings.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\obj\Debug\Connection Strings.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\obj\Debug\Connection Strings.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\obj\Debug\Connection Strings.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Connection Strings\obj\Debug\Connection Strings.pdb
