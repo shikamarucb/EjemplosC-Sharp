@@ -84,6 +84,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expresiones Lambda", "Expre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a LINQ", "Introduccion a LINQ\Introduccion a LINQ.csproj", "{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leyendo App Config", "Leyendo App Config\Leyendo App Config.csproj", "{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -242,6 +244,10 @@ Global
 		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDCC65A-6EA6-46C2-9C46-7E66DB5C40E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

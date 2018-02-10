@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\bin\Debug\Leyendo App Config.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\bin\Debug\Leyendo App Config.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\bin\Debug\Leyendo App Config.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\obj\Debug\Leyendo App Config.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\obj\Debug\Leyendo App Config.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Leyendo App Config\obj\Debug\Leyendo App Config.pdb
