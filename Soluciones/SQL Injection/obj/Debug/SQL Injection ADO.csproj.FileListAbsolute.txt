@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\bin\Debug\SQL Injection.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\bin\Debug\SQL Injection.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\bin\Debug\SQL Injection.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\obj\Debug\SQL Injection ADO.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\obj\Debug\SQL Injection ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\obj\Debug\SQL Injection.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\SQL Injection\obj\Debug\SQL Injection.pdb
