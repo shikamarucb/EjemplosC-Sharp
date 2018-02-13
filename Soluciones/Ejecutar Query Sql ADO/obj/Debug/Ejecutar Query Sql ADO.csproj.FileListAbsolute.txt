@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\bin\Debug\Ejecutar Query Sql ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\bin\Debug\Ejecutar Query Sql ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\bin\Debug\Ejecutar Query Sql ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\obj\Debug\Ejecutar Query Sql ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\obj\Debug\Ejecutar Query Sql ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\obj\Debug\Ejecutar Query Sql ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Ejecutar Query Sql ADO\obj\Debug\Ejecutar Query Sql ADO.csprojResolveAssemblyReference.cache
