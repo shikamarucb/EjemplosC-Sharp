@@ -28,7 +28,7 @@ namespace Ejecutar_Query_Sql_ADO
                 using (SqlCommand cmd = new SqlCommand(query, sql))
                 {
                     //Reemplaza @IdPais por el valor de la varible IdPais
-                    cmd.Parameters.AddWithValue("@IdPais", IdPais);
+                    cmd.Parameters.Add(new SqlParameter("@IdPais", IdPais));
                     DataTable dt = new DataTable();
                     SqlDataAdapter da = new SqlDataAdapter(cmd);
                     sql.Open();

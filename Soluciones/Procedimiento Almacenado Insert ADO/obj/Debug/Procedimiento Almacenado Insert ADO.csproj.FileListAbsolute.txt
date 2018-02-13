@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\bin\Debug\Procedimiento Almacenado Insert ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\bin\Debug\Procedimiento Almacenado Insert ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\bin\Debug\Procedimiento Almacenado Insert ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\obj\Debug\Procedimiento Almacenado Insert ADO.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\obj\Debug\Procedimiento Almacenado Insert ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\obj\Debug\Procedimiento Almacenado Insert ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\Procedimiento Almacenado Insert ADO\obj\Debug\Procedimiento Almacenado Insert ADO.pdb

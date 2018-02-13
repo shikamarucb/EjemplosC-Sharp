@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Procedimiento_Almacenado_ADO
+namespace Procedimiento_Almacenado_Insert_ADO
 {
     class Program
     {
@@ -21,18 +21,20 @@ namespace Procedimiento_Almacenado_ADO
 
             using (SqlConnection sql = new SqlConnection(connectionString))
             {
-                using (SqlCommand cmd = new SqlCommand("sp_buscar_persona", sql))
+                using (SqlCommand cmd = new SqlCommand("sp_insertar_persona", sql))
                 {
                     cmd.CommandType = CommandType.StoredProcedure;
 
                     //Reemplaza @IdPais por el valor de la varible IdPais //@IdPais corresponde a la declaracion de 
                     //la variable @IdPais en el procedimiento almacenado
                     cmd.Parameters.Add(new SqlParameter("@IdPais", IdPais));
+                    cmd.Parameters.Add(new SqlParameter("@Nombre", null));
+                    cmd.Parameters.Add(new SqlParameter("@Edad", 20));
 
-                    DataTable dt = new DataTable();
-                    SqlDataAdapter da = new SqlDataAdapter(cmd);
                     sql.Open();
-                    da.Fill(dt);
+
+                    //Este sirve para insertar pero tambien para actualizar y borrar(insert,update,delete)
+                    cmd.ExecuteNonQuery();
                 }
             }
         }

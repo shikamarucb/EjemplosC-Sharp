@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\bin\Debug\DataTables ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\bin\Debug\DataTables ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\bin\Debug\DataTables ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\obj\Debug\DataTables ADO.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\obj\Debug\DataTables ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\obj\Debug\DataTables ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataTables ADO\obj\Debug\DataTables ADO.pdb
