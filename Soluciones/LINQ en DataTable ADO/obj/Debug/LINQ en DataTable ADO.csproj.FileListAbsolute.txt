@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\bin\Debug\LINQ en DataTable ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\bin\Debug\LINQ en DataTable ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\bin\Debug\LINQ en DataTable ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\obj\Debug\LINQ en DataTable ADO.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\obj\Debug\LINQ en DataTable ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\obj\Debug\LINQ en DataTable ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\LINQ en DataTable ADO\obj\Debug\LINQ en DataTable ADO.pdb

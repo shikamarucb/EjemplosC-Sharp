@@ -86,7 +86,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion a LINQ", "Intr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leyendo App Config", "Leyendo App Config\Leyendo App Config.csproj", "{74D7771D-6CC5-47CF-B6DC-68935BE1D1A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection Strings", "Connection Strings\Connection Strings.csproj", "{CB4228F1-480E-4103-AB7B-F80F82D55605}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection Strings ADO", "Connection Strings\Connection Strings ADO.csproj", "{CB4228F1-480E-4103-AB7B-F80F82D55605}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejecutar Query Sql ADO", "Ejecutar Query Sql ADO\Ejecutar Query Sql ADO.csproj", "{7E447287-1CB6-4AEF-9848-BC531B28C5F9}"
 EndProject
@@ -99,6 +99,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transacciones ADO", "Transacciones ADO\Transacciones ADO.csproj", "{A1D3C361-1983-4D56-B218-549F66C8A562}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Injection ADO", "SQL Injection\SQL Injection ADO.csproj", "{E5C7B9ED-085F-426E-9223-CCFF9AEEF2F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ en DataTable ADO", "LINQ en DataTable ADO\LINQ en DataTable ADO.csproj", "{74D648C0-063E-447D-B918-43EEAEAD9422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -290,6 +292,10 @@ Global
 		{E5C7B9ED-085F-426E-9223-CCFF9AEEF2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C7B9ED-085F-426E-9223-CCFF9AEEF2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C7B9ED-085F-426E-9223-CCFF9AEEF2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D648C0-063E-447D-B918-43EEAEAD9422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D648C0-063E-447D-B918-43EEAEAD9422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D648C0-063E-447D-B918-43EEAEAD9422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D648C0-063E-447D-B918-43EEAEAD9422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
