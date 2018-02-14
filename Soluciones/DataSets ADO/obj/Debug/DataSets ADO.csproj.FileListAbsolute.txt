@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\bin\Debug\DataSets ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\bin\Debug\DataSets ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\bin\Debug\DataSets ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\obj\Debug\DataSets ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\obj\Debug\DataSets ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\DataSets ADO\obj\Debug\DataSets ADO.pdb

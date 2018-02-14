@@ -102,6 +102,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Injection ADO", "SQL In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ en DataTable ADO", "LINQ en DataTable ADO\LINQ en DataTable ADO.csproj", "{74D648C0-063E-447D-B918-43EEAEAD9422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSets ADO", "DataSets ADO\DataSets ADO.csproj", "{6B806F9F-4A06-4752-8ACC-87CE202BECF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,6 +298,10 @@ Global
 		{74D648C0-063E-447D-B918-43EEAEAD9422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D648C0-063E-447D-B918-43EEAEAD9422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D648C0-063E-447D-B918-43EEAEAD9422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B806F9F-4A06-4752-8ACC-87CE202BECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B806F9F-4A06-4752-8ACC-87CE202BECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B806F9F-4A06-4752-8ACC-87CE202BECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B806F9F-4A06-4752-8ACC-87CE202BECF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
