@@ -1,0 +1,7 @@
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\bin\Debug\TimeOut ADO.exe.config
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\bin\Debug\TimeOut ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\bin\Debug\TimeOut ADO.pdb
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\obj\Debug\TimeOut ADO.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\obj\Debug\TimeOut ADO.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\obj\Debug\TimeOut ADO.exe
+C:\Users\Felipe\Source\Repos\EjemplosC-Sharp\Soluciones\TimeOut ADO\obj\Debug\TimeOut ADO.pdb
