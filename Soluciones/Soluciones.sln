@@ -116,6 +116,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Separador de digitos C-SH7"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expresiones en una clase C-SH7", "Expresiones en una clase C-SH7\Expresiones en una clase C-SH7.csproj", "{351AD42C-11B0-40C4-A33F-DED331D06459}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Error en Expresiones C-SH7", "Error en Excepciones C-SH7\Error en Expresiones C-SH7.csproj", "{F94742D3-CBC3-4253-AC77-8EFD49D4D3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables out C-SH7", "Variables out\Variables out C-SH7.csproj", "{5ECE7833-1FCA-40FA-8B02-668E663E5A0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -338,6 +342,14 @@ Global
 		{351AD42C-11B0-40C4-A33F-DED331D06459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{351AD42C-11B0-40C4-A33F-DED331D06459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{351AD42C-11B0-40C4-A33F-DED331D06459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94742D3-CBC3-4253-AC77-8EFD49D4D3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94742D3-CBC3-4253-AC77-8EFD49D4D3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94742D3-CBC3-4253-AC77-8EFD49D4D3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94742D3-CBC3-4253-AC77-8EFD49D4D3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECE7833-1FCA-40FA-8B02-668E663E5A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECE7833-1FCA-40FA-8B02-668E663E5A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECE7833-1FCA-40FA-8B02-668E663E5A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECE7833-1FCA-40FA-8B02-668E663E5A0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
