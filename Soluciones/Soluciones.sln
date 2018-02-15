@@ -108,6 +108,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOut ADO", "TimeOut ADO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones Locales C-SH7", "Funciones Locales C-SH7\Funciones Locales C-SH7.csproj", "{3172108E-E8F0-43E0-AA04-F59B7BEF0A16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron de igualacion is C-SH7", "Patron de igualacion is\Patron de igualacion is C-SH7.csproj", "{185F92C0-0C80-4360-9E37-9CA366AF5766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -314,6 +316,10 @@ Global
 		{3172108E-E8F0-43E0-AA04-F59B7BEF0A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3172108E-E8F0-43E0-AA04-F59B7BEF0A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3172108E-E8F0-43E0-AA04-F59B7BEF0A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185F92C0-0C80-4360-9E37-9CA366AF5766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185F92C0-0C80-4360-9E37-9CA366AF5766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185F92C0-0C80-4360-9E37-9CA366AF5766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185F92C0-0C80-4360-9E37-9CA366AF5766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
