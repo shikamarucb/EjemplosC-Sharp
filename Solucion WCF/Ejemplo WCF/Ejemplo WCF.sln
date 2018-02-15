@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{4785C23A-C084-4CB0-BD12-0BCA35623383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumidor", "Consumidor\Consumidor.csproj", "{26DCDFCE-99B2-422E-A2B0-A3AFAF1E7E47}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4785C23A-C084-4CB0-BD12-0BCA35623383} = {4785C23A-C084-4CB0-BD12-0BCA35623383}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4785C23A-C084-4CB0-BD12-0BCA35623383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4785C23A-C084-4CB0-BD12-0BCA35623383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4785C23A-C084-4CB0-BD12-0BCA35623383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4785C23A-C084-4CB0-BD12-0BCA35623383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DCDFCE-99B2-422E-A2B0-A3AFAF1E7E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DCDFCE-99B2-422E-A2B0-A3AFAF1E7E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DCDFCE-99B2-422E-A2B0-A3AFAF1E7E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DCDFCE-99B2-422E-A2B0-A3AFAF1E7E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1E01EB-7A99-4233-855F-C876709CFE5A}
+	EndGlobalSection
+EndGlobal

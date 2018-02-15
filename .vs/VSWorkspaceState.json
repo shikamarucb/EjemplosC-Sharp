@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Soluciones"
+    "\\Solucion WCF",
+    "\\Solucion WCF\\Ejemplo WCF",
+    "\\Solucion WCF\\Ejemplo WCF\\WcfService1\\obj",
+    "\\Solucion WCF\\Ejemplo WCF\\WcfService1\\obj\\Debug"
   ],
-  "SelectedNode": "\\Soluciones\\Soluciones.sln",
+  "SelectedNode": "\\Solucion WCF\\Ejemplo WCF\\Ejemplo WCF.sln",
   "PreviewInSolutionExplorer": false
 }

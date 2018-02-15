@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="74decabb-6b2b-446a-b71c-6fa4665aa3af" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:65414/WCFEjemplo.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WCFEjemplo.wsdl" MetadataType="Wsdl" ID="a4e2e129-ad8d-4837-a163-458db7db08fd" SourceId="1" SourceUrl="http://localhost:65414/WCFEjemplo.svc?wsdl" />
+    <MetadataFile FileName="WCFEjemplo.disco" MetadataType="Disco" ID="daa36c6b-a841-4232-a80d-510ad31fd1ec" SourceId="1" SourceUrl="http://localhost:65414/WCFEjemplo.svc?disco" />
+    <MetadataFile FileName="WCFEjemplo.xsd" MetadataType="Schema" ID="7f0d34ff-d4de-4029-8589-004425fc40b3" SourceId="1" SourceUrl="http://localhost:65414/WCFEjemplo.svc?xsd=xsd2" />
+    <MetadataFile FileName="WCFEjemplo1.xsd" MetadataType="Schema" ID="4c7a8f4c-308d-4dfc-ba82-c47417687239" SourceId="1" SourceUrl="http://localhost:65414/WCFEjemplo.svc?xsd=xsd1" />
+    <MetadataFile FileName="WCFEjemplo2.xsd" MetadataType="Schema" ID="8bc868f0-9541-4559-af20-77e9eeb24c11" SourceId="1" SourceUrl="http://localhost:65414/WCFEjemplo.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
